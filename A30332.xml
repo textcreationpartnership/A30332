@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the second part of the enquiry into the reasons offered by Sa. Oxon for the abrogating of the test: relating to the idolatry of the Church of Rome.</title>
+            <author>Burnet, Gilbert, 1643-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30332</idno>
+            <idno type="OCLC"> 297426078</idno>
+            <idno type="STC">Wing B5771A</idno>
+            <idno type="STC">ESTC R213038</idno>
+            <idno type="EEBO-CITATION">297426078</idno>
+            <idno type="OCLC">ocn 297426078</idno>
+            <idno type="VID">29948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29948)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1755:32, 2919:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the second part of the enquiry into the reasons offered by Sa. Oxon for the abrogating of the test: relating to the idolatry of the Church of Rome.</title>
+                  <author>Burnet, Gilbert, 1643-1715.</author>
+                  <author>Parker, Samuel, 1640-1688. Reasons for abrogating the test, imposed upon all members of Parliament anno 1678.  Octob. 30.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>A continuation of "An enquiry into the reasons for abrogating the test imposed on all members of parliament" by Gilbert Burnet and a reply to "Reasons for abrogating the test, imposed upon all members of Parliament anno 1678.  Octob. 30" by Samual Parker.  Cf.  Folger Shakespeare Library.</note>
+                  <note>Copy at 2919:1 is improved over the defective copy found on reel 1755:32.  Cf.  Wing (2nd ed.).</note>
+                  <note>Imperfect: copy at 1755:32 has pages 3-6 lacking.</note>
+                  <note>Reproduction of originals in: University of Illinois (Urbana-Champaign Campus). Library (reel 1755:32) and Folger Shakespeare Library (reel 2919:1).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29948:1"/>
+            <pb n="1" facs="tcp:29948:1" rendition="simple:additions"/>
+            <head>A Continuation of the Second part of the ENQUIRY Into the REASONS Offered by <hi>Sa. Oxon</hi> for the Abrogating of the TEST: relating to the <hi>Idolatry</hi> of the <hi>Church</hi> of <hi>Rome.</hi>
+            </head>
+            <p>THe words of the <hi>Teſt,</hi> that belong to this point, are theſe, <hi>The In<g ref="char:EOLhyphen"/>vocation or Adoration of the Virgin</hi> Mary, <hi>or any other Saint, and the Sacrifice of the Maſs, as they are now uſed in the Church of</hi> Rome, <hi>are Superſtitious and Idolatrous:</hi> Upon which our Author fa<g ref="char:EOLhyphen"/>ſtens this Cenſure, <q>that ſince by this the Church of <hi>Rome</hi> is charged with <hi>Idolatry,</hi> which both forfeits mens Lives here, and their Salvation hereafter, according to the expreſs words of Scripture, it is a damna<g ref="char:EOLhyphen"/>ble piece of Cruelty and Uncharitableneſs to load them with this charge, if they are not guilty of it: and upon this he goes to clear them of it, not only in the two Articles mentioned in the <hi>Teſt,</hi> the Wor<g ref="char:EOLhyphen"/>ship of <hi>Saints,</hi> and the Sacrifice of the <hi>Maſs,</hi> but that his <hi>Apology</hi> might be com<g ref="char:EOLhyphen"/>pleat, he takes in, and indeed Inſiſts chiefly, on the Worship of <hi>Images,</hi> tho that is not at all mentioned in the <hi>Teſt.</hi> He brings a great many quotations out of the <hi>Old Teſtament,</hi> to shew the <hi>Idolatry</hi> prohibited in it, was the Worshipping the Sun, Moon and Stars, or the making an <hi>Image</hi> to reſemble the Divine Eſſence, upon which he produces alſo ſome other Authorities: And in this conſiſts the ſub<g ref="char:EOLhyphen"/>ſtance of his <hi>Plea</hi> for the Church of <hi>Rome.</hi>
+               </q>
+            </p>
+            <p>But upon all this he ought to have re<g ref="char:EOLhyphen"/>tracted both the Licenſe that himſelf gave ſome years ago, to D<hi rend="sup">r</hi>. <hi>Stillingfleets</hi> Book <hi>Of the Idolatry of the Church of Rome,</hi> and his own haſty aſſertion in condemning both <hi>Turk and Papiſt as guilty of Idolatry; the one for worshipping a leud Impoſtor, and the other for Worshipping a ſenſeleſs piece of matter.</hi>
+               <note place="margin">Def. of his Eccl. Pol. p. 285, 286.</note> It ſeems he is now convinced, that the latter part of this charge that falls on the <hi>Papiſts,</hi> was as falſe, as the former that falls on the Turks certainly is; for they never Wor<g ref="char:EOLhyphen"/>shipped <hi>Mahomet,</hi> but hold him only in high Reverence, as an Extraordinary Pro<g ref="char:EOLhyphen"/>phet, as the <hi>Jews</hi> do <hi>Moſes.</hi> It is very like that if the <hi>Turks</hi> had taken <hi>Vienna,</hi> he would have retracted that, as he has now in ef<g ref="char:EOLhyphen"/>fect done the other: for I believe he is in the ſame diſpoſition to reconcile himſelf to the <hi>Mufti,</hi> and the <hi>Pope:</hi> but the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> Empire is now as low as <hi>Popery</hi> is high: ſo he will brave the <hi>Turk</hi> ſtill to his teeth, tho he did him wrong, and will humble himſelf to the <hi>Papiſt,</hi> tho he did him nothing but right: but now I take leave of the man, and will confine my ſelf ſeverely to the matter that is before me; And.</p>
+            <p n="1">I. How guilty ſoever the Church of <hi>Rome</hi> is of <hi>Idolatry,</hi> yet the <hi>Teſt</hi> does not plainly aſſert that: for there is as great a difference between <hi>Idolatrous</hi> and <hi>Idolatry,</hi> as there is in Law between what is <hi>Trea<g ref="char:EOLhyphen"/>ſonable</hi> and what is <hi>Treaſon.</hi> The one Im<g ref="char:EOLhyphen"/>ports only a Worship that is conformable to <hi>Idolatry,</hi> and that has a tendency to it: wheras the other is the plain ſin it ſelf; there is alſo a great difference, between what <hi>is now uſed in that Church,</hi> and the Explanations that ſome of their Doctors give of that uſage. We are to take the uſage of the Church of <hi>Rome</hi> from her Publick <hi>Offices,</hi> and her authoriſed <hi>pra<g ref="char:EOLhyphen"/>ctices;</hi> ſo that if <hi>theſe</hi> have a Conformity
+<pb facs="tcp:29948:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:29948:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:29948:3"/> to <hi>Idolatry,</hi> and a tendency to it, then the words of the <hi>Teſt</hi> are juſtified, what ſenſe ſoever ſome learned men among them may put on theſe <hi>Offices</hi> and <hi>Practices;</hi> ther<g ref="char:EOLhyphen"/>fore the <hi>Teſt</hi> may be well maintained, even tho we should acknowledg that the Church of <hi>Rome</hi> was not guilty of <hi>Idolatry.</hi>
+            </p>
+            <p n="2">II. If <hi>Idolatry</hi> was a Crime punishable by <hi>Death</hi> under the <hi>Old Teſtament,</hi> that does not at all concern us: nor does the <hi>Charge</hi> of <hi>Idolatry</hi> authoriſe the people to kill all <hi>Idolaters:</hi> unleſs our Author can prove, that we believe our ſelves to be under all the Political and Judiciary Pre<g ref="char:EOLhyphen"/>cepts of the <hi>Law</hi> of <hi>Moſes:</hi> and even among the <hi>Jews</hi> the execution of that ſevere Law, belonged either to the Magiſtrate, or to ſome authoriſed and Inſpired perſon, who as a Zealot might execute the Law, when the Magiſtrate was wanting to his duty. So that this was writ Invidiouſly, only as it ſeems to Inflame the <hi>Papiſts</hi> the more againſt us. But the ſame <hi>Calviniſt Prince,</hi> that has expreſſed ſo juſt an averſion to the repealing the <hi>Teſt,</hi> has at the ſame time shewed ſo mercifull an Inclination towards the <hi>Ro. Catholicks,</hi> that of all the Reproa<g ref="char:EOLhyphen"/>ches in the World, one that intended to plead for that Religion ought to have avoi<g ref="char:EOLhyphen"/>ded the mentioning of Blood or Cruelty with the greateſt care.</p>
+            <p n="3">III. It is true, we cannot help belie<g ref="char:EOLhyphen"/>ving that Idolatry is a damnable ſin, that shuts men out of the Kingdom of Heaven: and if every ſin in which a man dies without repentance, does it, much more this, which is one of the greateſt of all ſins. But yet after all, there is Mercy for <hi>Sins of Ignorance,</hi> upon mens general repentance; and there<g ref="char:EOLhyphen"/>fore ſince God alone knows the degrees of mens knowledge and of their Ignorance, and how far it is either <hi>Affected</hi> on the one hand, or <hi>Invincible</hi> on the other; we do not take upon us to enter into Gods Se<g ref="char:EOLhyphen"/>crets, or to Judg of the Salvation or Dam<g ref="char:EOLhyphen"/>nation of particular perſons; nor muſt we be byaſſed in our Enquiry into the nature of any ſin, either by a fond regard to the ſtate of our Anceſtors, or by the due re<g ref="char:EOLhyphen"/>ſpect that we owe to thoſe who are over us in Civil matters. In this caſe things are what God has declared them to be: We can neither make them better nor worſe than he has made them: and we are only to Judge of things, leaving perſons to the merciful as well as the juſt and dreadful judgment of God.</p>
+            <p n="4">IV. All the ſtir that our Author keeps with the examining of the <hi>Idolatry</hi> com<g ref="char:EOLhyphen"/>mitted by the <hi>Jews,</hi> under the <hi>Old Teſta<g ref="char:EOLhyphen"/>ment,</hi> ſuppoſing it were all true, will ſerve no more for acquitting the Church of <hi>Rome,</hi> than a Plea would avail a Criminal, who were arraigned of <hi>high Treaſon</hi> for Coyning Money or for Counterfeiting the Kings Seal, in which one should ſet forth that <hi>High Treaſon</hi> was the <hi>Murdering the King, or the levying war againſt him,</hi> and that therefore the Criminal who was guilty of neither of theſe two, ought to be acquitted. <hi>Idolatry</hi> as well as <hi>Treaſon</hi> is a Comprehenſive No<g ref="char:EOLhyphen"/>tion, and has many different branches: ſo that tho the Worshipping the Hoſt of heaven, or the Worshipping an Image as a reſemblance of the Divinity, may be ac<g ref="char:EOLhyphen"/>knowledged to be the higheſt degrees of <hi>Idolatry,</hi> yet many other corruptions in the Worship of God are juſtly reducible ro it, and may be termed not only <hi>Idolatrous</hi> but <hi>Idolatry</hi> it ſelf.</p>
+            <p n="5">V. Our Saviour in his ſermon on the Mount has shewed us how many ſins are reducible to the ſecond Table of the Law, beſides thoſe of <hi>Murder, Adultery,</hi> &amp;c. that are expreſly named in it: and tho the <hi>Jews</hi> in that time having delivered themſelves entirely from the ſin of <hi>Idolatry,</hi> to which their Fathers were ſo prone, gave him no occaſion of commenting on the firſt and ſecond Commandment, yet by the parity of things we may conclude, that many ſins are reducible to them, beſides thoſe that are expreſſely named. And tho we have not ſo compleat a Hiſtory of the <hi>Idolatry</hi> of the Neighbouring Nations to <hi>Iudea,</hi> before the Captivity, yet we do certainly know what was the <hi>Idolatry</hi> of which the <hi>Greeks</hi> and <hi>Romans</hi> were guilty when the <hi>New</hi> Teſtament was writ. And tho the greateſt part of the <hi>New Teſtament</hi> is writ<g ref="char:EOLhyphen"/>ten chiefly with relation to the <hi>Jews,</hi> whoſe freedom from <hi>Idolatry</hi> gave no occaſion to
+<gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:29948:3"/> made plainer than the matter of Fact is. We know likewiſe, that when the Controverſy aroſe concerning the Godhead of Jeſus Chriſt, <hi>Athana<g ref="char:EOLhyphen"/>ſius</hi> and the other <hi>Fathers,</hi> made uſe of the ſame Argument againſt the <hi>Arrians,</hi> who worship<g ref="char:EOLhyphen"/>ped him; that they could not be excuſed from the ſin of <hi>Idolatry,</hi> in worshipping and Invoca<g ref="char:EOLhyphen"/>ting him, whom they believed to be only a Creature: which shews, that it was the ſenſe of the Chriſtians of that Age, that all Acts of Di<g ref="char:EOLhyphen"/>vine worship, and in particular, all Prayers that were offered up to any that was not truely and by nature <hi>God,</hi> and the <hi>Eternal God,</hi> were ſo ma<g ref="char:EOLhyphen"/>ny Acts of <hi>Idolatry.</hi> So that upon the whole matter, it is clear, that the worshipping the true <hi>God</hi> under a Corporeal Repreſentation, and the worshipping or Invocating of Creatures, tho in an Inferiour degree, was taxed by the Apoſtles and by the Primitive Church as <hi>Idola<g ref="char:EOLhyphen"/>trous.</hi> When they accuſe them for thoſe Corrup<g ref="char:EOLhyphen"/>tions of Divine worship, they did not conſider the ſoftning excuſes of more refined men, ſo much as the acts that were done, which to be ſure do always carry the ſtupid Vulgar to the groſſeſt degrees of <hi>Idolatry:</hi> and thetefore every ſtep towards it is ſo ſeverely forbid by God: ſince upon one ſtep made in the publick worship, the people are ſure to make a great many more in their notions of things. Therefore if we should accuſe the Church of <hi>Rome,</hi> for all the exceſſes of the paſt Ages, or of the more Ignorant <hi>Na<g ref="char:EOLhyphen"/>tions</hi> in the preſent Age, ſuch as <hi>Spain</hi> and <hi>Por<g ref="char:EOLhyphen"/>tugal,</hi> even this might be in ſome degree well grounded; becauſe the publick and authoriſed <hi>Offices</hi> and <hi>Practices</hi> of that <hi>Church,</hi> has given the riſe to all thoſe Diſorders: and even in this, we should but Copy after the <hi>Fathers,</hi> who always repreſent the <hi>Pagan Idolatry</hi> not as <hi>Cicero</hi> or <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> had done it, but according to the groſſeſt notions and practices of the Vulgar.</p>
+            <p n="14">XIV. All that our Author ſays, concerning the <hi>Cherubims,</hi> deſerves not an anſwer: for what uſe ſoever might be made of this, to excuſe the <hi>Lutherans,</hi> for the uſe of <hi>Images,</hi> without wor<g ref="char:EOLhyphen"/>shipping them (tho after all the doing ſuch a thing upon a Divine Command, and the doing it without a Command, are two very different things,) yet it cannot belong to the worship of <hi>Images,</hi> ſince the Iſraelites payed no worship to the <hi>Cherubims.</hi> They pay'd indeed a Divine wor<g ref="char:EOLhyphen"/>ship to the <hi>Cloud of Glory,</hi> which was between them, and which is often in the Old Teſtament called <hi>God</hi> himſelf, in all thoſe expreſſions, in which he is ſaid to <hi>dwell between the Cherubims.</hi> But this being a miraculous Symbol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Di<g ref="char:EOLhyphen"/>vine preſence, from which they had anſwers in all extraordinary caſes, it was God himſelf, without any Image or Repreſentation, that was worshipped in it. As we Chriſtians, pay our A<g ref="char:EOLhyphen"/>dorations to the <hi>Humane Nature</hi> of Chriſt, by ver<g ref="char:EOLhyphen"/>tue of that more ſublime and ineffable indwel<g ref="char:EOLhyphen"/>ling of the <hi>Godhead</hi> in Him: in which caſe it is God only that we worship, in the <hi>man Chriſt.</hi> Even as the reſpect that we pay to a man termi<g ref="char:EOLhyphen"/>nates in his <hi>mind,</hi> tho the outward expreſſions of it go to the <hi>body,</hi> to which the mind is uni<g ref="char:EOLhyphen"/>ted. So in that unconceivable Union between the Divine and Humane Natures in Chriſt, we adore the <hi>Godh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad</hi> only, even when we worship the <hi>man.</hi>
+            </p>
+            <p n="15">XV. The General part of this Diſcourſe, being thus ſtated, the application of it to the Church of <hi>Rome,</hi> will be no hard matter. I will not inſiſt much on the Article of <hi>Image Worship,</hi> becauſe it is not comprehended in the <hi>Teſt,</hi> tho our Au<g ref="char:EOLhyphen"/>thor dwells longeſt on it, to let us ſee how care<g ref="char:EOLhyphen"/>fully, but to how little purpoſe he had read Dr. <hi>Spencers</hi> learned Book. But if one conſiders the Ceremonies and Prayers with which <hi>Images,</hi> and particularly <hi>Croſſes,</hi> are to be dedicated by the <hi>Roman Pontifical,</hi> and the formal Adoration of the <hi>Croſs</hi> on <hi>Good Fryday,</hi> and the ſtrange ver<g ref="char:EOLhyphen"/>tues that are not only believed to be in ſome <hi>Images</hi> by the rabble, but that are authoriſed not only by the Books of Devotion publickly allo<g ref="char:EOLhyphen"/>wed among them, but even by Papal <hi>Bulls</hi> and <hi>Indulgences,</hi> he will be forced to confeſs, that the old notions of the <hi>Teraphim</hi> are clearly revived among them. This could be made out in an in<g ref="char:EOLhyphen"/>finite Induction of particulars, of which the Reader will find a large account in the learned Dr. <hi>Brevint's</hi> Treatiſe, entitled, <hi>Saul and Samuel at Endor.</hi> But I come now to the two Branches mentioned in the <hi>Teſt.</hi>
+            </p>
+            <p n="16">XVI. One is the <hi>Sacrifice of the Maſs,</hi> in which if either our <hi>Senſes,</hi> that tell us, it is now <hi>Bread and Wine,</hi> or the <hi>New Teſtament</hi> in which it is cal<g ref="char:EOLhyphen"/>led both <hi>Bread</hi> and the <hi>fruit of the Vine,</hi> even af<g ref="char:EOLhyphen"/>ter the Conſecration, or if the Opinion of the firſt <hi>ſeven Centuries,</hi> or if the true principles of <hi>Philoſophy,</hi> concurring altogether, are ſtrong e<g ref="char:EOLhyphen"/>nough, we are as certain as it is poſſible for us to be of any thing, that they are ſtill according to our Authors own phraſe, <hi>a ſenceleſs piece of mat<g ref="char:EOLhyphen"/>ter.</hi> When therefore this has divine <hi>Adoration</hi> offered to it, when it is called, the <hi>good God,</hi> car<g ref="char:EOLhyphen"/>ried about in ſolemn Proceſſions, and receives as publick and as humble a Veneration, as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld be offered up to the Deity it ſelf, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it appeared viſibly: here the higheſt degree of Divine wor<g ref="char:EOLhyphen"/>ship is offered up to a Creature: nor will ſuch
+<pb n="8" facs="tcp:29948:4"/> Worshippers, believing this to be truely the Body of Chriſt, ſave the matter, if indeed it is not ſo. This may no doubt go a great way to ſave themſelves, and to bring their ſin into the the claſs of the ſins of Ignorance: but what large thoughts ſoever we may have of the mer<g ref="char:EOLhyphen"/>cies of God to their perſons, we can have no In<g ref="char:EOLhyphen"/>dulgence for an Act of Divine <hi>Adoration,</hi> which is directed to an Object that we are either ſure is <hi>Bread,</hi> or we are ſure of nothing elſe.</p>
+            <p n="17">XVII. As for the <hi>Invocation and Adoration of the B. Virgin and the Saints,</hi> I shall offer only three Claſſes of Inſtances to prove it <hi>Idolatrous.</hi> 1. In the <hi>Office</hi> of the <hi>Maſs</hi> on many of the <hi>Saints days,</hi> that <hi>Sacrifice,</hi> which is no other than the <hi>Body and Blood of Chriſt,</hi> according to them, is offered up to the honour of the <hi>Saints,</hi> and they pray to God, to accept of it thro the Saints Interceſſion. One would think, it were enough to offer up the <hi>Sacrifices</hi> of prayers and praiſes to them: but here is a <hi>Sacrifice,</hi> which carries in the plain words of it, the moſt abſurd <hi>Idolatry</hi> that is poſſible; which is the offering up the <hi>Creator</hi> to the ho<g ref="char:EOLhyphen"/>nour of a <hi>Creature.</hi>
+            </p>
+            <p n="2">2. In the Prayers and Hymns that are in their publick <hi>Offices,</hi> there are Petitions offered up to the Saints, that in the plain ſenſe of the words import their pardoning our ſins, and changing our hearts. The daily prayer to the <hi>Virgin</hi> goes far this way: <hi>Tu nos ab hoſte protege, &amp; hora mortis ſuſcipe:</hi> Do thou protect us from our Enemy, and receive us in the hour of death. Another goes yet further: <hi>Culpas noſtras ablue, ut perennis ſedem gloriae, per te redempti, valeamus ſcan<g ref="char:EOLhyphen"/>dere:</hi> Wash thou away our ſins, that ſo being redeemed by thee, we may aſcend up to the manſions of glory. That to the <hi>Angels</hi> is of the ſame nature, <hi>Noſtra diluant jam peccata praeſtando ſupernam Coeli gloriam:</hi> May they wash away our ſins, and grant us the heavenly glory. I shall to this add two Addreſſes to two of our <hi>English</hi> Saints; the firſt is to St. Alban, <hi>Te nunc petimus Patrone praeco ſedule, qui es noſtra vera gloria, ſolve precum votis, ſervorum ſcelera:</hi> We implore thee, our Patron, who art our true Glory, do thou take away the crimes of thy Servants, by thy prayers. And the other relates to <hi>Thomas Becket,</hi> whom I believe, our Author will not deny to have been as great a Rebel, as either <hi>Coligny,</hi> or his Faction; and yet they pray thus to Chriſt, <hi>Tu per Thomae ſanguinem, quem pro te effudit, fac nos Chriſte ſcandere quo Thomas aſcendit.</hi> Do thou, O Chriſt, make us by the <hi>blood of Thomas, which he shed for thee,</hi> to aſcend up whether he has aſ<g ref="char:EOLhyphen"/>cended: and the Hymn upon him, is that Verſe of the eighth Pſalm, <hi>Thou haſt crowned him with Glory and Honour, and has ſet him over all the works of thy hands.</hi> One would think, it were no bold thing to pronounce all this, and innumerable more Inſtances, which might be brought to the ſame purpoſe, to be <hi>Idolatrous.</hi> If we are ſent by our Author to the ſenſes that may be put on theſe words, I shall only ſay with relation to that, that the <hi>Teſt</hi> condemns the Devotions as <hi>they are uſed in the Roman Church:</hi> ſo this belongs to the plain ſenſe of the words, and if it is con<g ref="char:EOLhyphen"/>feſſed that theſe are <hi>Idolatrous,</hi> as aſcribing to Creatures the right of pardoning ſin, and of ope<g ref="char:EOLhyphen"/>ning the Kingdom of Heaven, which are main parts of the Divine glory, then the matter of the <hi>Teſt</hi> is juſtified.</p>
+            <p>A third ſort of Inſtance is in the prayer that comes after the Prieſt has pronounced the words of Abſolution, <hi>Paſſio Domini noſtri Jeſu Chriſti, merita B. Mariae Virginis, &amp; omnium Sanctorum, &amp; quicquid boni feceris, vel mali ſuſtinueris, ſint tibi in remiſſionem peccatorum, augmentum gratiae, &amp; pre<g ref="char:EOLhyphen"/>mium vitae aeternae:</hi> May the Paſſion of our Lord Jeſus Chriſt, the merits of the B. Virgin, and all the Saints, and all the good thou haſt done, or the evil that thou haſt ſuffered, be to thee effectual, for the remiſſion of thy ſins, the encreaſe of grace, and the reward of Eternal life. <hi>Abſolution</hi> in its true and unſophiſticated meaning, being the declaration made to a Pe<g ref="char:EOLhyphen"/>nitent of the mercys of God in Chriſt, according to the Goſpel, I would gladly know, what milder Cenſure is due to the mixing the merits of the <hi>Virgin</hi> and the <hi>Saints,</hi> with the Paſſion of <hi>Chriſt,</hi> in order to the obtaining this Goſpel pardon, with all the effects of it, than this of our <hi>Teſt,</hi> that it is <hi>Idolatrous.</hi>
+            </p>
+            <p>I have now examined the two points, in which our Author thought fit to make an <hi>Apo<g ref="char:EOLhyphen"/>logy</hi> for the Church of <hi>Rome,</hi> without deſcen<g ref="char:EOLhyphen"/>ding to the particulars of his <hi>Plea</hi> more minute<g ref="char:EOLhyphen"/>ly. I have uſed him in this more gently than he deſerves: for as I examined his <hi>Reaſonings,</hi> I found all along both ſo much Ignorance, and ſuch groſs disingenuity, that I had ſome diffi<g ref="char:EOLhyphen"/>culty to reſtrain my ſelf, from flying out on many occaſions: but I reſolved to purſue theſe two points, with the gravity of ſtile which the matter required, without entangling the diſ<g ref="char:EOLhyphen"/>courſe, with ſuch unpleaſant digreſſions, as the diſcovery of his <hi>Errors</hi> might have led me to. And I thought it enough to free unwary Readers from the miſtakes into which his Book might lead them, without encreaſing the contempt belonging to the Writer, who has now enough upon him; but I pray, God grant him Repen<g ref="char:EOLhyphen"/>tance and a better mind.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29948:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
